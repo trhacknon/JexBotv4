@@ -7,8 +7,8 @@ g = '\033[32m'  # JEx Bot Version 4.0
 y = '\033[33m'  # Note! : We don't Accept any responsibility for any illegal usage.
 b = '\033[34m'  # This tool is for Penetration Testing
 m = '\033[35m'  #
-c = '\033[36m'  # Leaked by #GhostSec 
-w = '\033[37m'  # https://t.me/GhostSecc
+c = '\033[36m'  # Leaked by #trhacknon
+w = '\033[37m'  # https://wa.me/trhacknon
 # --------------------------------
 
 VERSION = 'JEx Bot [4.0]'
